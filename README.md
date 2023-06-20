@@ -36,8 +36,8 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benzps01&show_icons=true&locale=en&theme=cobalt2" alt="benzps01" /></p>
+<p><img align="left" src="https://github-readme-stats-benzps01.vercel.app//api/top-langs?username=benzps01&show_icons=true&locale=en&theme=cobalt2" alt="benzps01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=benzps01&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt2" alt="benzps01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-benzps01.vercel.app//api?username=benzps01&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=cobalt2" alt="benzps01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=benzps01&theme=cobalt2&type=png&" alt="benzps01" /></p>
