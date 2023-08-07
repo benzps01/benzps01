@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Benson Pallivathukkal Sabu</h1>
+<h1 align="center">Hi 👋, I'm Benson Sabu Pallivathukkal</h1>
 <h2 align="center">I am a Software Engineer specializing in Web Development. Eager to Learn more about Artificial Intelligence</h2>
 
 - 🌱 I’m currently learning **Flask, ReactJS, Typescript**
