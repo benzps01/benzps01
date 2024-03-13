@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Benson Sabu Pallivathukkal</h1>
-<h2 align="center">I am a Software Engineer specializing in Web Development. Eager to Learn more about Artificial Intelligence</h2>
-
-- 🌱 I’m currently learning **Flask, ReactJS, Typescript**
+<h2 align="center">I am a Software Engineer specializing in Web Development. Eager to Learn more about Artificial Intelligence. Currently pursuing CDAC from MET, Mumbai.</h2>
+<h2 align="center"> 🌱 I’m currently learning C++, Java, ReactJS</h2>
 
 - 📫 How to reach me **benzps01@gmail.com**
 
